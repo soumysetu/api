@@ -6,6 +6,8 @@ import (
 	"net/http"
 )
 
+//goijutdfgoi
+
 type customer struct {
 	Name string `json: "namess"`
 	City string `json: "city name"`
